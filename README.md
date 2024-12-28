@@ -1,6 +1,8 @@
 
 # System Operations Control (sysopctl)
 Version: v0.1.0
+## Workflow Diagram
+![image](https://github.com/user-attachments/assets/16cb93ee-3a12-4148-9333-58dcb4d38a4b)
 
 ## Command Reference Guide
 
